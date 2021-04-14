@@ -52,5 +52,5 @@
     "url": "git+https://github.com/DHTMLX/gantt.git"
   },
   "types": "codebase/dhtmlxgantt.d.ts",
-  "version": "7.0.11"
+  "version": "7.0.12"
 }
